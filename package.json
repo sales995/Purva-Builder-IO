@@ -1,0 +1,13 @@
+{
+  "name": "purva-builder-io",
+  "version": "1.0.0",
+  "description": "Landing page for Purva Somerset built with Builder.io",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "^5.0.0"
+  }
+}
